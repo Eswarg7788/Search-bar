@@ -1,0 +1,13 @@
+input{
+    width: 310px;
+    height: 50px;
+    margin-top: 15PX;
+    margin-left: 20PX;
+}
+.vv{
+    margin-top: 170PX;
+    margin-left: 700PX;
+    width:400px;
+    height: 80px;
+    background-color: rgb(107, 141, 171);
+}
